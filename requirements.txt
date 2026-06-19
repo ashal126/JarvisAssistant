@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+requests
+openai
+pyaudio
+sounddevice
+numpy
+apscheduler
